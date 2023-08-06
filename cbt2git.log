@@ -1,0 +1,6 @@
+2023-08-06 06:45:47.956779 - Initialized conversion of CBT730
+2023-08-06 06:45:47.982441 - Received CBT.V505.FILE730.PDS from FILE730.XMI 
+2023-08-06 06:45:47.985006 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:45:47.986158 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:45:47.987150 - Found @FILE730.txt (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/@FILE730
+2023-08-06 06:45:47.988040 - Found PIPICALL.jcl (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/PIPICALL
