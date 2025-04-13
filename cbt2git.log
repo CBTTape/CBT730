@@ -1,0 +1,5 @@
+2025-04-13 22:13:02.948709 - Received CBT.V505.FILE730.PDS from FILE730.XMI 
+2025-04-13 22:13:02.949395 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:13:02.949477 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/$$NOTE1
+2025-04-13 22:13:02.949558 - Found @FILE730.txt (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/@FILE730
+2025-04-13 22:13:02.949652 - Found PIPICALL.jcl (text/plain) in CBT.V505.FILE730.PDS, moved to PDS/PIPICALL
